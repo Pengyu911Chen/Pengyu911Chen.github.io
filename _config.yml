@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengyu Chen"
-description              : "Personal academic homepage of Pengyu Chen "
+description              : "Personal academic homepage of Pengyu Chen, featuring research in aerial robotics, autonomous navigation, motion planning, learning-based control and Physical AI"
 repository               : "Pengyu911Chen/Pengyu911Chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Pengyu Chen"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "M.S. Student in Electrical and Computer Engineering at Johns Hopkins University"
+  avatar           : "images/PersonImage.png"
+  bio              : "M.S. Student in Electrical and Computer Engineering at Johns Hopkins University. Focus on Physical AI for Autonomous UAVs: Spatial Reasoning, Real-time Decision and Learning-based Control."
   location         : "Baltimore, Maryland, USA"
-  employer         :
+  employer         : "Autonomous Control & Exploration Lab, Johns Hopkins University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "pchen95@jh.edu"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Pengyu911Chen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/pengyu-chen-1bb20a365"
+  linkedin         : "https://www.linkedin.com/in/pengyu-chen-1bb20a365"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
