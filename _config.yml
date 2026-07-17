@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Pengyu Chen"
-description              : "Personal academic homepage of Pengyu Chen, featuring research in aerial robotics, autonomous navigation, motion planning, learning-based control and Physical AI"
+description              : "Focus on Physical AI for Autonomous UAVs: Spatial Reasoning, Real-time Decision and Learning-based Control."
 repository               : "Pengyu911Chen/Pengyu911Chen.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengyu Chen"
   avatar           : "images/PersonImage.png"
-  bio              : "M.S. Student in Electrical and Computer Engineering at Johns Hopkins University. Focus on Physical AI for Autonomous UAVs: Spatial Reasoning, Real-time Decision and Learning-based Control."
+  bio              : "M.S. Student in Electrical and Computer Engineering at Johns Hopkins University."
   location         : "Baltimore, Maryland, USA"
   employer         : "Autonomous Control & Exploration Lab, Johns Hopkins University"
   pubmed           : 
