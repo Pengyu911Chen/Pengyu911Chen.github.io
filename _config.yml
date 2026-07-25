@@ -25,7 +25,7 @@ author:
   avatar           : "images/PersonImage.png"
   bio              : "M.S. Student in Electrical and Computer Engineering at Johns Hopkins University."
   location         : "Baltimore, Maryland, USA"
-  employer         : "Autonomous Control & Exploration Lab, Johns Hopkins University"
+  employer         : "ACE Lab, Johns Hopkins University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "pchen95@jh.edu"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/pengyu-chen-1bb20a365"
+  linkedin         : "www.linkedin.com/in/pengyu-chen-1bb20a365"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
