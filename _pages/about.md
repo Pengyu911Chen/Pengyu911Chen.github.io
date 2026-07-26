@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, Im Pengyu Chen (陈鹏宇). I am currently an M.S. student in Electrical and Computer Engineering at Johns Hopkins University, where I am affiliated with the Autonomous Control & Exploration Lab at the Laboratory for Computational Sensing and Robotics (LCSR) under the mentorship of Prof.Abhishek Cauligi. 
+Hi, Im Pengyu Chen (陈鹏宇). I am currently an M.S. student in Electrical and Computer Engineering at Johns Hopkins University, where I am affiliated with the Autonomous Control and Exploration Lab at the Laboratory for Computational Sensing and Robotics (LCSR) under the mentorship of Prof.Abhishek Cauligi. 
 
 My research focuses on autonomous aerial robotics, with an emphasis on learning-based control, real-time decision and spatial reasoning. I am particularly interested in bridging foundation models with classical robotics algorithms or learning-based control method to enable long-horizon autonomous navigation and real-time decision-making in previously unknown environments. Building an EDI like the one in *Stealth* would definitely be incredibly cool！
 
@@ -29,9 +29,9 @@ My research focuses on autonomous aerial robotics, with an emphasis on learning-
 
 # Research Experience
 - *2025.12 - now*, Graduate Research Assistant, supervised by Prof. Abhishek Cauligi, ACE Lab, Johns Hopkins University, USA.
-- *2025.01 - 2025.09*， Undergraduate Research Assistant, supervised by Prof. Chaofen Hu, Tianjin University, Tianjin, China.
+- *2025.01 - 2025.09*, Undergraduate Research Assistant, supervised by Prof. Chaofang Hu, Tianjin University, Tianjin, China.
 - *2024.06 - 2024.09*, Research Assistant, Institute of Automation, Chinese Academy of Sciences (CAS), Complex Decision Intelligence Laboratory, Beijing, China.
-- *2023.09 - 2024.10*,  Undergraduate Project Manager, supervised by Prof. Jidong Wei, Tianjin University, Tianjin, China.
+- *2023.09 - 2024.10*, Undergraduate Project Manager, supervised by Prof. Jidong Wei, Tianjin University, Tianjin, China.
 
 
 
