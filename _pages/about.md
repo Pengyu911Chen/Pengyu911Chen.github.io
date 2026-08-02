@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, Im Pengyu Chen (陈鹏宇). I am currently an M.S. student in Electrical and Computer Engineering at Johns Hopkins University, where I am affiliated with the Autonomous Control and Exploration Lab at the Laboratory for Computational Sensing and Robotics (LCSR) under the mentorship of Prof.Abhishek Cauligi. 
+Hi, Im Pengyu Chen (陈鹏宇). I am currently an M.S. student in Electrical and Computer Engineering at Johns Hopkins University, where I am affiliated with the Autonomous Control and Exploration Lab at the Laboratory for Computational Sensing and Robotics (LCSR) under the mentorship of Prof.Abhishek Cauligi and Prof.Claude Wang. 
 
-My research focuses on autonomous aerial robotics, with an emphasis on learning-based control, real-time decision and spatial reasoning. I am particularly interested in bridging foundation models with classical robotics algorithms or learning-based control method to enable long-horizon autonomous navigation and real-time decision-making in previously unknown environments. Building an EDI like the one in *Stealth* would definitely be incredibly cool！
+My research focuses on autonomous aerial robotics, with an emphasis on learning-based control, real-time decision and spatial reasoning. I am particularly interested in bridging foundation models with classical robotics algorithms or learning-based control method to enable long-horizon autonomous navigation and real-time decision-making in previously unknown environments. 
+
+Building an EDI like the one in *Stealth* would definitely be incredibly cool！
 
 
 
@@ -65,7 +67,7 @@ My research focuses on autonomous aerial robotics, with an emphasis on learning-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Flow Matching Differentiable NMPC control for Quadrotor**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Flow Policy Differentiable NMPC control for Quadrotor**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -77,7 +79,7 @@ My research focuses on autonomous aerial robotics, with an emphasis on learning-
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/ppo_drone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Deep Reinforcement Learning for Micro-UAV low-level Controller**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -92,10 +94,10 @@ My research focuses on autonomous aerial robotics, with an emphasis on learning-
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/microwave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Microwave sensor for multiphase flow**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Microwave Sensing Mechanism of Water Content in Oil-Water Two-Phase Flow using Electromagnetic Metamaterials**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
